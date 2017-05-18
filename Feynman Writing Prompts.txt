@@ -1,0 +1,12 @@
+Feynman Writing Prompts
+
+* Variables - stores information and or declared with the var keyword
+* Strings - data type which has its information stored in quotes
+* Functions (arguements, return)
+  * Functions - are reusable blocks of code
+  * arguements - values that are passed into a function
+  * return - value that is returned from the function back to where it was called
+* if statements - used for comparing values
+* Boolean values(true, false)
+  * true - returns true if evaluated to true
+  * false - returns flase if evaluated to false
